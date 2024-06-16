@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 emqx/emqx:5.7
 mysql:oraclelinux8
+bitnami/kafka:3.3-debian-12
