@@ -7,4 +7,5 @@ xhofe/alist:latest
 emqx/emqx:5.7
 mysql:oraclelinux8
 bitnami/kafka:3.3-debian-12
-emqx/emqx:5.7---platform=linux/arm64
+---platform=linux/arm64 emqx/emqx:5.7
+---platform=linux/arm64 mysql:oraclelinux8
