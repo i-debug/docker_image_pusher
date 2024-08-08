@@ -13,3 +13,4 @@ mysql:5.7
 --platform=linux/amd64 emqx/emqx:5.6.0
 --platform=linux/amd64 mysql:5.7
 --platform=linux/amd64 mysql:8.3.0
+deluan/navidrome
